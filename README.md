@@ -2,7 +2,7 @@
 
 **AI and cyber safety for kids in grades 3 to 5 and the families who support them**
 
-Materials available in English, Español, and Português.
+Materials available in [English](handouts/parents-guide-english.md), [Español](handouts/guia-padres-espanol.md), and [Português](handouts/guia-pais-portugues.md).
 
 AI Literacy for Kids and Families is a 30-minute, hands-on session created by Dr. Michelle Angelo-Rocha for the Great American Teach-In. Kids learn to spot fake pictures, videos, and voices, protect their personal information, and think like a detective before they believe, click, or share.
 
